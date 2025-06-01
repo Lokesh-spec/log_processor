@@ -1,0 +1,17 @@
+2025-06-01 19:13:37,522 - LogProcessorMain - INFO - Starting the log processing.
+2025-06-01 19:13:37,522 - LogProcessorMain - INFO - Starting the log processing.
+2025-06-01 19:13:37,522 - LogProcessorMain - INFO - Parsing log file from URL: https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/apache_logs/apache_logs
+2025-06-01 19:13:37,522 - LogProcessorMain - INFO - Parsing log file from URL: https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/apache_logs/apache_logs
+2025-06-01 19:13:37,522 - LogProcessorParser - INFO - Fetching logs from: https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/apache_logs/apache_logs
+2025-06-01 19:13:39,290 - LogProcessorParser - INFO - Logs fetched successfully!
+2025-06-01 19:13:39,329 - LogProcessorParser - INFO - No Match Found for: 
+2025-06-01 19:13:39,356 - LogProcessorMain - INFO - Parsed 10000 rows of log data.
+2025-06-01 19:13:39,356 - LogProcessorMain - INFO - Parsed 10000 rows of log data.
+2025-06-01 19:13:39,356 - LogProcessorMain - INFO - Saving structured log data to: ./output/structured_logs.csv
+2025-06-01 19:13:39,356 - LogProcessorMain - INFO - Saving structured log data to: ./output/structured_logs.csv
+2025-06-01 19:13:39,385 - LogProcessorMain - INFO - Log processing completed successfully. Output saved to ./output/structured_logs.csv
+2025-06-01 19:13:39,385 - LogProcessorMain - INFO - Log processing completed successfully. Output saved to ./output/structured_logs.csv
+2025-06-01 19:13:58,280 - LogProcessorMain - INFO - Successfully loaded 10000 rows to robust-analyst-454716-n2.apache_logs.logs
+2025-06-01 19:13:58,280 - LogProcessorMain - INFO - Successfully loaded 10000 rows to robust-analyst-454716-n2.apache_logs.logs
+2025-06-01 19:13:58,281 - LogProcessorMain - INFO - SUCCESS
+2025-06-01 19:13:58,281 - LogProcessorMain - INFO - SUCCESS
